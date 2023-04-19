@@ -1,0 +1,63 @@
+[
+    {
+    "titulo": "CREME DE LEITE NINHO COM MORANGO",
+    "imagem": "ILUSTRAÇÕES/CREME DE MORANGO.jpeg",
+    "preparo": "Primeiro Misture o Leite Condensado com o Leite Ninho para ter uma textura cremosa. Acrescente o creme de leite e margarina e em seguida leve ao fogo (temperatura baixa), e mexa por 5 minutos. Assim que o creme estiver com a consistência adequada transfira o conteúdo para um recipiente, juntamente com um plástico filme deixe esfriando em temperatura ambiente por 3 horas. Em seguida acrescente o morando e o açucar (bônus: para uma melhor absorção do açucar, deixe a mistura descansar por 20 minutos).",
+    "ingredientes": [
+        "1 lata de leite condensado 395g",
+        "8 col. de sopa de leite ninho",
+        "1/2 caixinha de creme de leite 100g",
+        "1 col. de sopa de margarina",
+        "200g de morango",
+        "2 col. de sopa de açúcar"
+    ]
+    },
+    {
+    "titulo": "MOUSE DE MARACUJA",
+    "imagem": "ILUSTRAÇÕES/MOUSE DE MARACUJA.jpeg",
+    "preparo": "Misture a poupa do maracuja (1 unidade) com água no liquidificador por uns 15 segundos (para não misturar as sementes ao mousse) e penere os resíduos. Em seguida bata o leite condensado com o creme de leite por 1 minuto e meio. Por fim basta juntar os igredientes em um refratário e leve à geladeira por 2 horas. Por fim adicione a poupa do segundo maracujá sobre o mousse.",
+    "ingredientes": [
+        "2 maracujás grandes",
+        "250ml de água",
+        "2 cx de leite condensado",
+        "600g de creme de leite"
+    ]
+    },
+    {
+    "titulo": "TORTA DE LIMÃO",
+    "imagem": "ILUSTRAÇÕES/TORTA DE LIMÃO.jpeg",
+    "preparo": "Triture os biscoitos de maisena, em seguida adicione água,margarina e 1 colher de raspinhas de limão. Misture até a massa ficar consistênte. Coloque a massa em uma assadeira e começe a fazer o recheio. Para isso é necessário bater o leite condensado com o creme de leito e o suco de limão por 5 minutos. Adicione o conteúdo dentro da massa e leve à geladeira por 4 horas.",
+    "ingredientes": [
+        "400g de biscoito Maizena",
+        "1/2 xícara (chá) de manteiga (100g)",
+        "1 colher (chá) de raspas de limão",
+        "1/2 xícara (chá) de água ou 8 colheres (sopa) (110ml)",
+        "2 caixinhas de leite condensado (790g)",
+        "2 caixinhas de creme de leite (400g)",
+        "3/4 de xícara (chá) de suco de limão (150ml)",
+        "Raspas de limão para decorar"
+    ]
+    },
+    {
+    "titulo": "FOUNDUE DE CHOCOLATE",
+    "imagem": "ILUSTRAÇÕES/FOUNDUE DE CHOCOLATE.jpeg",
+    "preparo": "Em um recipiente adicione o chocolate ao lete, chocolate amargo e o creme de leite. Em seguida deixe em 'Banho Maria'(ou no micro-ondas) até derreter os chocolates. <br /> <br /> <br />IMPORTANTE: Mexa bem o chocolate durante o derretimento.",
+    "ingredientes": [
+        "100 gramas de chocolate ao leite",
+        "75 gramas de chocolate ½ amargo",
+        "¾  xícara (chá) de creme de leite 150 gramas",
+        "1 xícara (chá)  Chocolate fracionado 130 gramas"
+    ]
+    },
+    {
+    "titulo": "SORVETE CASEIRO",
+    "imagem": "ILUSTRAÇÕES/SORVETE.jpeg",
+    "preparo": "Coloque o pacotinho de gelatina junto com àgua quente e bata no liquidificador por 1 minuto. Em seguida adicione o leite condensado com o creme de leite e bata novamente por 2 minutos. Leve em um recipiente e coloue na geladeira por 3 horas. Por fim verifique se a textura está bem macia e leve para a batedeira por 10 minutos. <br /> <br /> IMPORTANTE: Se a massa do sorvete estiver muito dura, aguarde até que fique com uma consistência mais mole.",
+    "ingredientes": [
+        "1 pacotinho ou caixinha de gelatina de morango (use o sabor que quiser)",
+        "1 xícara (chá) de água 210 ml",
+        "1 caixinha de leite condensado 395 gramas",
+        "3 caixinhas de creme de leite 600 gramas"
+    ]
+    }
+]

@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <script src="https://unpkg.com/vue@3/dist/vue.global.js"></script>
+      <title>Ordenar Valores</title>
+      <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css" integrity="sha384-MCw98/SFnGE8fJT3GXwEOngsV7Zt27NXFoaoApmYm81iuXoPkFOJwJ8ERdknLPMO" crossorigin="anonymous">
+</head>
+<body>
+    <main>
+      <h1>Ordenação de Valores</h1>
+      <label for="valor">Valor:</label>
+      <input type="number" id="valor" name="valor"/>
+      <button onclick="add()">Adicionar</button>
+      <br>
+      <br>
+      <hr>
+      <label for="sortMethod">Método de Ordenação:</label>
+      <select id="sortMethod" name="sortMethod">
+        <option value="bubble_sort" selected>Bubble Sort</option>
+        <option value="selection_sort">Selection Sort</option>
+        <option value="quick_sort">Quick Sort</option>
+      </select>
+      <br>
+      <br>
+      <button id="ordenarButton" onclick="ordenar()">Ordenar</button>
+      <button id="misturarButton" onclick="misturar()">Misturar</button>
+      <br>
+      <br>
+      <hr>
+      <ul id="valores"></ul>
+    </main>
+  </body>
+  <script src="ordenando.js"></script>
+</html>
